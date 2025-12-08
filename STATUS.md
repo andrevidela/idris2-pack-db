@@ -2,7 +2,7 @@
 
 | Compiler | Version | Commit |
 | --- | --- | --- |
-| [Idris2](https://github.com/idris-lang/Idris2) | 0.8.0 | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [Idris2](https://github.com/idris-lang/Idris2) | 0.8.0 | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 
 ## Building Packages
 
@@ -20,13 +20,13 @@
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
 | [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [cecbd1d](https://github.com/stefan-hoeck/idris2-array/commit/cecbd1dd3bae94669a2ed3689ee91ce1616cc34f) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [fa08935](https://github.com/stefan-hoeck/idris2-async/commit/fa08935d10f4013b0caef76412bcc47598646e17) |
-| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [4d51557](https://github.com/stefan-hoeck/idris2-async-dom/commit/4d51557bca0d235d0c5382dcb3b5d16636482172) |
+| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [40f5542](https://github.com/stefan-hoeck/idris2-async-dom/commit/40f55422bc47ec949ac8e035b589ba042e44c62b) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [fa08935](https://github.com/stefan-hoeck/idris2-async/commit/fa08935d10f4013b0caef76412bcc47598646e17) |
 | [async-js](https://github.com/stefan-hoeck/idris2-async) | base, linear | [fa08935](https://github.com/stefan-hoeck/idris2-async/commit/fa08935d10f4013b0caef76412bcc47598646e17) |
 | [async-posix](https://github.com/stefan-hoeck/idris2-async) | base, linear | [fa08935](https://github.com/stefan-hoeck/idris2-async/commit/fa08935d10f4013b0caef76412bcc47598646e17) |
 | [async-spec](https://github.com/stefan-hoeck/idris2-async) | base, linear, prettier | [fa08935](https://github.com/stefan-hoeck/idris2-async/commit/fa08935d10f4013b0caef76412bcc47598646e17) |
 | [barbies](https://github.com/stefan-hoeck/idris2-barbies) | base | [2572018](https://github.com/stefan-hoeck/idris2-barbies/commit/257201868668f94884a12c3de3b48ed84fce3a07) |
-| [base](https://github.com/idris-lang/Idris2) |  | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [base](https://github.com/idris-lang/Idris2) |  | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [base64](https://git.sr.ht/~janus/base64) | base, linear | [f749111](https://git.sr.ht/~janus/base64/commit/f749111b3a4ffa2b0c39d16153bc5670e7347ef9) |
 | [best-alternative](https://github.com/buzden/idris2-best-alternative) |  | [7b084aa](https://github.com/buzden/idris2-best-alternative/commit/7b084aa829c7eaa5ce608ceca6b486256436fdda) |
 | [bounded-doubles](https://github.com/buzden/idris2-bounded-doubles) |  | [078934f](https://github.com/buzden/idris2-bounded-doubles/commit/078934f6ba4bf69284c9cbc365840e645e71f22d) |
@@ -35,15 +35,15 @@
 | [byteorder](https://git.sr.ht/~stygianentity/byteorder-idr) | base | [8432cdd](https://git.sr.ht/~stygianentity/byteorder-idr/commit/8432cdd74a4129f95895586cbec203b15e89c91a) |
 | [bytestring](https://github.com/stefan-hoeck/idris2-bytestring) | base, linear | [03a4df4](https://github.com/stefan-hoeck/idris2-bytestring/commit/03a4df496af59cfb0bdd7e46f3a0b8d8960b9695) |
 | [c-ffi](https://codeberg.org/joelberkeley/c-ffi) |  | [6c54ca8](https://codeberg.org/joelberkeley/c-ffi/commit/6c54ca867a124b3fa291b2ac3acdf54cd0f30110) |
-| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [d3fe88e](https://github.com/stefan-hoeck/idris2-chem/commit/d3fe88ee1e399ce2494f2bc8efdd91954c14c6ea) |
-| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [d3fe88e](https://github.com/stefan-hoeck/idris2-chem/commit/d3fe88ee1e399ce2494f2bc8efdd91954c14c6ea) |
+| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [df30474](https://github.com/stefan-hoeck/idris2-chem/commit/df30474d15cbe0511809224568abd512c76d7ee2) |
+| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [df30474](https://github.com/stefan-hoeck/idris2-chem/commit/df30474d15cbe0511809224568abd512c76d7ee2) |
 | [collection-utils](https://github.com/buzden/idris2-collection-utils) | best-alternative, fin-lizzie, if-unsolved-implicit | [ec38943](https://github.com/buzden/idris2-collection-utils/commit/ec38943ac41bd216862af304a5ceacb7f26848a1) |
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
 | [cont](https://git.sr.ht/~janus/cont) | base, linear | [5ca3c85](https://git.sr.ht/~janus/cont/commit/5ca3c85f6356c1c4b860ac7cf65caa9b39f0bf21) |
 | [containers](https://github.com/idris-community/idris2-containers) | base, linear | [1e92a94](https://github.com/idris-community/idris2-containers/commit/1e92a94bea542139ef75304732882883624a4a6f) |
 | [continuation-monad](https://gitlab.com/avidela/continuation-monad) |  | [76ad994](https://gitlab.com/avidela/continuation-monad/commit/76ad994491b3bb5b890a84fa9b320b64dd5370fd) |
-| [contrib](https://github.com/idris-lang/Idris2) |  | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [contrib](https://github.com/idris-lang/Idris2) |  | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [control-flow](https://github.com/JankaGramofonomanka/idris-compiler-tools) | theory | [e323d47](https://github.com/JankaGramofonomanka/idris-compiler-tools/commit/e323d4707231ea0fb57b6b4015a35a6440cdc42a) |
 | [control-spec](https://github.com/dannypsnl/control-spec) | contrib | [1aa5c4b](https://github.com/dannypsnl/control-spec/commit/1aa5c4b00d2409fabd9ac716a2f9afd570fa6968) |
 | [coop](https://github.com/buzden/idris2-coop) | mtl-tuple-impls, base, time-for-sleep | [dd41cc8](https://github.com/buzden/idris2-coop/commit/dd41cc8dc9d9d0757a23399f0a15df3e230a6695) |
@@ -51,7 +51,7 @@
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [6d36b67](https://github.com/stefan-hoeck/idris2-cptr/commit/6d36b675dc214173d4696165f7721970868e2b8c) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [15866ef](https://github.com/stefan-hoeck/idris2-crypt/commit/15866ef4869d29873fa734a2732805ca415aad3e) |
 | [css](https://github.com/stefan-hoeck/idris2-css) | base | [ee1ed13](https://github.com/stefan-hoeck/idris2-css/commit/ee1ed13fc518d2466018b9d915857f2e901f4894) |
-| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear | [5646b20](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/5646b207006a66f194daa2dfc188878621fc2e88) |
+| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear | [034e384](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/034e3842dac998a61b4988f422d007ccc2a9b6b6) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
@@ -91,7 +91,7 @@
 | [http2](https://git.sr.ht/~janus/http2) | base, contrib, linear | [ce3e72a](https://git.sr.ht/~janus/http2/commit/ce3e72a7843c6c42b7b30d62699b675001fa1e6c) |
 | [i-hate-parens](https://github.com/buzden/idris2-i-hate-parens) | if-unsolved-implicit | [c1ef924](https://github.com/buzden/idris2-i-hate-parens/commit/c1ef924566319a9fec0ed8033c78f4b76798446b) |
 | [idrall](https://github.com/alexhumphreys/idrall) | base, contrib | [36cf8f6](https://github.com/alexhumphreys/idrall/commit/36cf8f6dc9c0de60d2291109d4f019a1657370e2) |
-| [idris2](https://github.com/idris-lang/Idris2) | linear | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [idris2](https://github.com/idris-lang/Idris2) | linear | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [idris2-go](https://github.com/kbertalan/idris2-go) | linear | [070087e](https://github.com/kbertalan/idris2-go/commit/070087e7f216bd651df6f4491f71a6d812631dd7) |
 | [idris2-go-lib](https://github.com/kbertalan/idris2-go) |  | [070087e](https://github.com/kbertalan/idris2-go/commit/070087e7f216bd651df6f4491f71a6d812631dd7) |
 | [idris2-lsp](https://github.com/idris-community/idris2-lsp) | linear, contrib | [8134454](https://github.com/idris-community/idris2-lsp/commit/81344545c134c8e7105ecf1fdd7a1caae6647035) |
@@ -112,7 +112,7 @@
 | [katla](https://github.com/idris-community/katla) | linear, contrib, base | [b28e5be](https://github.com/idris-community/katla/commit/b28e5be98819e0516cc799bf57de1d6f56f70034) |
 | [katla-pandoc](https://github.com/idris-community/katla) | contrib | [b28e5be](https://github.com/idris-community/katla/commit/b28e5be98819e0516cc799bf57de1d6f56f70034) |
 | [lens](https://github.com/kiana-S/idris2-lens) | profunctors, base | [d6bae26](https://github.com/kiana-S/idris2-lens/commit/d6bae26222a0b2290bf4146279bdc31bb900d527) |
-| [linear](https://github.com/idris-lang/Idris2) |  | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [linear](https://github.com/idris-lang/Idris2) |  | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [linux](https://github.com/stefan-hoeck/idris2-linux) | base, linear | [6fcf6b3](https://github.com/stefan-hoeck/idris2-linux/commit/6fcf6b323f59729f040540a5c14903f678748d54) |
 | [literal](https://github.com/stefan-hoeck/idris2-literal) | base | [f0fed86](https://github.com/stefan-hoeck/idris2-literal/commit/f0fed86ae9bd5b13d98e4dd18103a6e1f7f7c6b4) |
 | [log-domain](https://github.com/idris-bayes/log-domain) |  | [7eb33c3](https://github.com/idris-bayes/log-domain/commit/7eb33c36fb411b3e9dc43e0c5ad5d8f2f3dae80e) |
@@ -125,18 +125,18 @@
 | [multiplate](https://github.com/Z-snails/multiplate-idr) |  | [601d865](https://github.com/Z-snails/multiplate-idr/commit/601d865f1fc74b783879b50d17ffd2a949def902) |
 | [ncurses-idris](https://github.com/mattpolzin/ncurses-idris) | contrib, indexed | [9f1e575](https://github.com/mattpolzin/ncurses-idris/commit/9f1e575d48cb2acb837f9713e003fbb6ddbf8f44) |
 | [nested](https://gitlab.com/bss03/nested) |  | [31f74ce](https://gitlab.com/bss03/nested/commit/31f74ced9067ff04b80fbe22ab5b5f153436f6ea) |
-| [network](https://github.com/idris-lang/Idris2) | linear | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [network](https://github.com/idris-lang/Idris2) | linear | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [node](https://github.com/kbertalan/idris2-node) |  | [fb80b36](https://github.com/kbertalan/idris2-node/commit/fb80b36c76b4332259033beadbd2cd35aafe64d0) |
 | [numidr](https://github.com/kiana-S/numidr) |  | [bd1eee1](https://github.com/kiana-S/numidr/commit/bd1eee136662ef638628bca9907ae64f1b7538f9) |
 | [okasaki-pfds](https://gitlab.com/bss03/idris2-okasaki-pfds) |  | [a8dd0b8](https://gitlab.com/bss03/idris2-okasaki-pfds/commit/a8dd0b89dc307ef621f35e59216b11aadb128ade) |
-| [pack](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [bdd69a9](https://github.com/stefan-hoeck/idris2-pack/commit/bdd69a9a403dc17c10bfd39978d8a63c12085f23) |
-| [pack-admin](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [bdd69a9](https://github.com/stefan-hoeck/idris2-pack/commit/bdd69a9a403dc17c10bfd39978d8a63c12085f23) |
+| [pack](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [4685b43](https://github.com/stefan-hoeck/idris2-pack/commit/4685b43f69a90548c87124492d56ef802881ab70) |
+| [pack-admin](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [4685b43](https://github.com/stefan-hoeck/idris2-pack/commit/4685b43f69a90548c87124492d56ef802881ab70) |
 | [pact-api](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-client](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types, contrib | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-server](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-todomvc](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types, contrib | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-wai](https://github.com/running-grass/idris2-pact) | base, linear | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
-| [papers](https://github.com/idris-lang/Idris2) | contrib, linear | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [papers](https://github.com/idris-lang/Idris2) | contrib, linear | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [park_bench](https://github.com/Z-snails/park_bench) |  | [c9a212e](https://github.com/Z-snails/park_bench/commit/c9a212e4873cc533dee361e1614189c95a56c873) |
 | [parser](https://github.com/stefan-hoeck/idris2-parser) | base, linear | [9decb99](https://github.com/stefan-hoeck/idris2-parser/commit/9decb99fe27c3411c18850129715a49c64f1b1c0) |
 | [parser-json](https://github.com/stefan-hoeck/idris2-parser) | base, linear | [9decb99](https://github.com/stefan-hoeck/idris2-parser/commit/9decb99fe27c3411c18850129715a49c64f1b1c0) |
@@ -152,7 +152,7 @@
 | [pjrt-plugin-xla-cuda](https://codeberg.org/joelberkeley/spidr) | base | [5a9755e](https://codeberg.org/joelberkeley/spidr/commit/5a9755ea387772e36f7bd316321c5bd1037c96ce) |
 | [positive-nat](https://github.com/buzden/idris2-positive-nat) | if-unsolved-implicit | [6f0858b](https://github.com/buzden/idris2-positive-nat/commit/6f0858bc2158059231110babd02fa40b6ea3ff21) |
 | [posix](https://github.com/stefan-hoeck/idris2-linux) | base, linear | [6fcf6b3](https://github.com/stefan-hoeck/idris2-linux/commit/6fcf6b323f59729f040540a5c14903f678748d54) |
-| [prelude](https://github.com/idris-lang/Idris2) |  | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [prelude](https://github.com/idris-lang/Idris2) |  | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [prettier](https://github.com/Z-snails/prettier) |  | [666b4e6](https://github.com/Z-snails/prettier/commit/666b4e6ba397e332deb4076d56ce745c8fb542a0) |
 | [prettier-ansi](https://github.com/idris-community/idris2-ansi) | base, prettier | [90f80ac](https://github.com/idris-community/idris2-ansi/commit/90f80ac513572877a3de818b43f837fa59265fec) |
 | [pretty-show](https://github.com/stefan-hoeck/idris2-pretty-show) | base, prettier, linear | [b49cc61](https://github.com/stefan-hoeck/idris2-pretty-show/commit/b49cc6197aa9c6ca4bc941519f3088950a0c05a3) |
@@ -163,7 +163,7 @@
 | [quantifiers-extra](https://github.com/stefan-hoeck/idris2-quantifiers-extra) | base | [5e368c5](https://github.com/stefan-hoeck/idris2-quantifiers-extra/commit/5e368c5dcc7724e19b1e9eb3baf8e206cf79d2a1) |
 | [qutescript](https://github.com/stefan-hoeck/idris2-qutescript) | base | [0c52c5e](https://github.com/stefan-hoeck/idris2-qutescript/commit/0c52c5edaddd6fca7006c3cc50df5ccca330f134) |
 | [racket-tcp](https://git.sr.ht/~janus/racket-tcp) | base, contrib | [1fb1358](https://git.sr.ht/~janus/racket-tcp/commit/1fb135821a0fad9770393473e1dc4dee0d26e1e5) |
-| [random-pure](https://github.com/buzden/idris2-random-pure) | base, prettier | [daaa957](https://github.com/buzden/idris2-random-pure/commit/daaa95706cc5dc8faaa36df0e1b3a77547e991fc) |
+| [random-pure](https://github.com/buzden/idris2-random-pure) | base, prettier | [bfe091b](https://github.com/buzden/idris2-random-pure/commit/bfe091b2ee1bc561ca2e6c17ddeb9972964bd6e8) |
 | [ratio](https://github.com/kiana-S/idris2-ratio) |  | [1bdfde8](https://github.com/kiana-S/idris2-ratio/commit/1bdfde80d70c1dc63df186e32f7c86ba6545dff2) |
 | [records](https://github.com/kuribas/idris-records) |  | [4a57846](https://github.com/kuribas/idris-records/commit/4a5784648d3f8b544e7a375431fa70698e8ed6fc) |
 | [ref1](https://github.com/stefan-hoeck/idris2-ref1) | base, linear | [ef6d426](https://github.com/stefan-hoeck/idris2-ref1/commit/ef6d4265deaa6a4f1b5228932102847a4e54e4d2) |
@@ -182,8 +182,8 @@
 | [spidr](https://codeberg.org/joelberkeley/spidr) | base | [5a9755e](https://codeberg.org/joelberkeley/spidr/commit/5a9755ea387772e36f7bd316321c5bd1037c96ce) |
 | [sqlite3](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [51b1664](https://github.com/stefan-hoeck/idris2-sqlite3/commit/51b1664c95a3fa0ba245ffc36fabfc4e0ed5db3d) |
 | [sqlite3-rio](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [51b1664](https://github.com/stefan-hoeck/idris2-sqlite3/commit/51b1664c95a3fa0ba245ffc36fabfc4e0ed5db3d) |
-| [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [57afb01](https://github.com/stefan-hoeck/idris2-streams/commit/57afb012dedc1968eda855ccf8e76c1236aa51da) |
-| [streams-posix](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [57afb01](https://github.com/stefan-hoeck/idris2-streams/commit/57afb012dedc1968eda855ccf8e76c1236aa51da) |
+| [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [2fb11d2](https://github.com/stefan-hoeck/idris2-streams/commit/2fb11d2d53ff91009210cb2030553b9375d5fe38) |
+| [streams-posix](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [2fb11d2](https://github.com/stefan-hoeck/idris2-streams/commit/2fb11d2d53ff91009210cb2030553b9375d5fe38) |
 | [string-builder](https://github.com/Z-snails/string-builder) |  | [6dfb5e0](https://github.com/Z-snails/string-builder/commit/6dfb5e0070274ead1b8fd4e1229b5254da7ddd15) |
 | [string-search](https://git.sr.ht/~janus/string-search) | base | [519de6b](https://git.sr.ht/~janus/string-search/commit/519de6bcc6a8e9c66941ed7d72bcce3bbdb17045) |
 | [structures](https://git.sr.ht/~thatonelutenist/Structures) |  | [cd11a19](https://git.sr.ht/~thatonelutenist/Structures/commit/cd11a19794a139ccb14441c4d522de3d2b201083) |
@@ -194,7 +194,7 @@
 | [tailrec](https://github.com/stefan-hoeck/idris2-tailrec) | base | [2734dfd](https://github.com/stefan-hoeck/idris2-tailrec/commit/2734dfdac3dedafcc0140b5388af760d0729b62f) |
 | [telescope](https://gitlab.com/avidela/idris2-telescope.git) |  | [e20f473](https://gitlab.com/avidela/idris2-telescope.git/commit/e20f473ddd18f1104c0a2a8bc17b36b2ea9fad03) |
 | [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [b8a4f65](https://github.com/bgavran/TensorType/commit/b8a4f651cbb47c800e09b95b67b91796f2bf80dc) |
-| [test](https://github.com/idris-lang/Idris2) | contrib | [acde1c9](https://github.com/idris-lang/Idris2/commit/acde1c9260fffb140525fea191a17cd23368c61c) |
+| [test](https://github.com/idris-lang/Idris2) | contrib | [95333b3](https://github.com/idris-lang/Idris2/commit/95333b3adc33decf1d0cc17e825c90f1afc36a42) |
 | [tester](https://github.com/hydrolarus/tester-idr) | contrib | [3dcdb54](https://github.com/hydrolarus/tester-idr/commit/3dcdb54ed578a14597a17cb93c926734a9da69ca) |
 | [theory](https://github.com/JankaGramofonomanka/idris-theory) |  | [ff2ec34](https://github.com/JankaGramofonomanka/idris-theory/commit/ff2ec3487bfb70746173cdafda09ee55418a63f0) |
 | [time-for-sleep](https://github.com/buzden/idris2-time-for-sleep) |  | [8e50060](https://github.com/buzden/idris2-time-for-sleep/commit/8e50060df0d6ff19d6049b90bd26906a6b4aae5f) |
