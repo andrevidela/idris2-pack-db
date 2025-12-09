@@ -145,7 +145,7 @@
 | [parser-tsv](https://github.com/stefan-hoeck/idris2-parser) | base, linear | [9decb99](https://github.com/stefan-hoeck/idris2-parser/commit/9decb99fe27c3411c18850129715a49c64f1b1c0) |
 | [parser-webidl](https://github.com/stefan-hoeck/idris2-parser) | base, linear | [9decb99](https://github.com/stefan-hoeck/idris2-parser/commit/9decb99fe27c3411c18850129715a49c64f1b1c0) |
 | [pg](https://git.sr.ht/~janus/pg) | base, linear | [4d3d554](https://git.sr.ht/~janus/pg/commit/4d3d5546ead083ece2108d4089b50f1268cfdeee) |
-| [pg-idris](https://github.com/mattpolzin/pg-idris) | indexed, base, linear | [4cf3252](https://github.com/mattpolzin/pg-idris/commit/4cf32529b67ac1a32ff3523955b134926e0ed53e) |
+| [pg-idris](https://github.com/mattpolzin/pg-idris) | indexed, base, linear | [509bc46](https://github.com/mattpolzin/pg-idris/commit/509bc468c9b30cdd0e7f554deeec9cf1b0832863) |
 | [pg-types](https://git.sr.ht/~janus/pg-types) | base | [b854bbc](https://git.sr.ht/~janus/pg-types/commit/b854bbcfb5e9e303d836d9b5a733b0060eb9e90a) |
 | [pipelines](https://gitlab.com/glaive-research/pipelines.git) | contrib | [a931a12](https://gitlab.com/glaive-research/pipelines.git/commit/a931a12b0fc3656ad279368deb4428cb2b38c144) |
 | [pjrt-plugin-xla-cpu](https://codeberg.org/joelberkeley/spidr) | base | [5a9755e](https://codeberg.org/joelberkeley/spidr/commit/5a9755ea387772e36f7bd316321c5bd1037c96ce) |
