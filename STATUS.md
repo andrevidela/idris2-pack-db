@@ -120,7 +120,7 @@
 | [markdown](https://github.com/running-grass/idris2-markdown) | base, contrib | [3833426](https://github.com/running-grass/idris2-markdown/commit/38334267cbbe0ed067320d2e8bec36b08f475f5a) |
 | [mk](https://github.com/buzden/idris2-mk) |  | [0df0651](https://github.com/buzden/idris2-mk/commit/0df0651b12ecc574d5083a361333f80aaaa912ad) |
 | [monad-bayes](https://github.com/idris-bayes/monad-bayes) | contrib, free, log-domain | [6b8d301](https://github.com/idris-bayes/monad-bayes/commit/6b8d3015a2317ab11e4a9205924d61094f570665) |
-| [monocle](https://github.com/stefan-hoeck/idris2-monocle) | base | [dd0ac62](https://github.com/stefan-hoeck/idris2-monocle/commit/dd0ac6256ff80c11e112b9e4134669f44b042a51) |
+| [monocle](https://github.com/stefan-hoeck/idris2-monocle) | base | [ab52018](https://github.com/stefan-hoeck/idris2-monocle/commit/ab520188b34f367ba5063d99d39e82380990ec7f) |
 | [mtl-tuple-impls](https://github.com/buzden/idris2-mtl-tuple-impls) |  | [f25d3f8](https://github.com/buzden/idris2-mtl-tuple-impls/commit/f25d3f8aba26da82be089f8c0e9f1865b31b28e8) |
 | [multiplate](https://github.com/Z-snails/multiplate-idr) |  | [601d865](https://github.com/Z-snails/multiplate-idr/commit/601d865f1fc74b783879b50d17ffd2a949def902) |
 | [ncurses-idris](https://github.com/mattpolzin/ncurses-idris) | contrib, indexed | [9f1e575](https://github.com/mattpolzin/ncurses-idris/commit/9f1e575d48cb2acb837f9713e003fbb6ddbf8f44) |
