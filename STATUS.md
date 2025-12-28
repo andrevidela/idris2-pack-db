@@ -94,7 +94,7 @@
 | [idris2](https://github.com/idris-lang/Idris2) | linear | [0e9b01d](https://github.com/idris-lang/Idris2/commit/0e9b01d0400593fa99b320c56f6e77406a4eb968) |
 | [idris2-go](https://github.com/kbertalan/idris2-go) | linear | [070087e](https://github.com/kbertalan/idris2-go/commit/070087e7f216bd651df6f4491f71a6d812631dd7) |
 | [idris2-go-lib](https://github.com/kbertalan/idris2-go) |  | [070087e](https://github.com/kbertalan/idris2-go/commit/070087e7f216bd651df6f4491f71a6d812631dd7) |
-| [idris2-lsp](https://github.com/idris-community/idris2-lsp) | linear, contrib | [8134454](https://github.com/idris-community/idris2-lsp/commit/81344545c134c8e7105ecf1fdd7a1caae6647035) |
+| [idris2-lsp](https://github.com/idris-community/idris2-lsp) | linear, contrib | [5d46d6e](https://github.com/idris-community/idris2-lsp/commit/5d46d6e1d9babe02780fb3e7b715ef5efd081ad9) |
 | [idrisGL](https://github.com/ECburx/Idris2GL) |  | [44da085](https://github.com/ECburx/Idris2GL/commit/44da0855bc8b2cfdf796ba9557e8c500395a8c41) |
 | [if-unsolved-implicit](https://github.com/buzden/idris2-if-unsolved-implicit) |  | [fd11041](https://github.com/buzden/idris2-if-unsolved-implicit/commit/fd110417e84335646aabffd187a465ad854448e7) |
 | [ilex](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [c2d5a21](https://github.com/stefan-hoeck/idris2-ilex/commit/c2d5a219c701a8f694aa95e8d34c7a58d58e5795) |
@@ -129,8 +129,8 @@
 | [node](https://github.com/kbertalan/idris2-node) |  | [fb80b36](https://github.com/kbertalan/idris2-node/commit/fb80b36c76b4332259033beadbd2cd35aafe64d0) |
 | [numidr](https://github.com/kiana-S/numidr) |  | [bd1eee1](https://github.com/kiana-S/numidr/commit/bd1eee136662ef638628bca9907ae64f1b7538f9) |
 | [okasaki-pfds](https://gitlab.com/bss03/idris2-okasaki-pfds) |  | [a8dd0b8](https://gitlab.com/bss03/idris2-okasaki-pfds/commit/a8dd0b89dc307ef621f35e59216b11aadb128ade) |
-| [pack](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [cd512a0](https://github.com/stefan-hoeck/idris2-pack/commit/cd512a0bf61a6effacc24060bb04106a849df0fe) |
-| [pack-admin](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [cd512a0](https://github.com/stefan-hoeck/idris2-pack/commit/cd512a0bf61a6effacc24060bb04106a849df0fe) |
+| [pack](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [ff798ee](https://github.com/stefan-hoeck/idris2-pack/commit/ff798eea65c15c1a87c231e431f1fd97bdbd31e8) |
+| [pack-admin](https://github.com/stefan-hoeck/idris2-pack) | base, linear | [ff798ee](https://github.com/stefan-hoeck/idris2-pack/commit/ff798eea65c15c1a87c231e431f1fd97bdbd31e8) |
 | [pact-api](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-client](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types, contrib | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
 | [pact-server](https://github.com/running-grass/idris2-pact) | base, linear, apache-mime-types | [a37470d](https://github.com/running-grass/idris2-pact/commit/a37470d35a9abe73114035ca56bd735422fbbab6) |
