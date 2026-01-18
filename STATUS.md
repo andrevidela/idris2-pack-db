@@ -97,12 +97,12 @@
 | [idris2-lsp](https://github.com/idris-community/idris2-lsp) | linear, contrib | [5d46d6e](https://github.com/idris-community/idris2-lsp/commit/5d46d6e1d9babe02780fb3e7b715ef5efd081ad9) |
 | [idrisGL](https://github.com/ECburx/Idris2GL) |  | [44da085](https://github.com/ECburx/Idris2GL/commit/44da0855bc8b2cfdf796ba9557e8c500395a8c41) |
 | [if-unsolved-implicit](https://github.com/buzden/idris2-if-unsolved-implicit) |  | [fd11041](https://github.com/buzden/idris2-if-unsolved-implicit/commit/fd110417e84335646aabffd187a465ad854448e7) |
-| [ilex](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
-| [ilex-core](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
-| [ilex-debug](https://github.com/stefan-hoeck/idris2-ilex) | base, linear, prettier | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
-| [ilex-json](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
-| [ilex-streams](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
-| [ilex-toml](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [60d69d5](https://github.com/stefan-hoeck/idris2-ilex/commit/60d69d501d009a28db44ded4410b8f952d466d7c) |
+| [ilex](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
+| [ilex-core](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
+| [ilex-debug](https://github.com/stefan-hoeck/idris2-ilex) | base, linear, prettier | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
+| [ilex-json](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
+| [ilex-streams](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
+| [ilex-toml](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [d8625ad](https://github.com/stefan-hoeck/idris2-ilex/commit/d8625ad967934e32fb943e1d5371aa457b1362f9) |
 | [indexed](https://github.com/mattpolzin/idris-indexed) |  | [c99707f](https://github.com/mattpolzin/idris-indexed/commit/c99707f1db2efa2e97c465b16b525cb79b28f349) |
 | [indexed-graph](https://github.com/stefan-hoeck/idris2-indexed-graph) | base, linear | [b8021d0](https://github.com/stefan-hoeck/idris2-indexed-graph/commit/b8021d0b92d597f84b45bc708dc8d186bd616602) |
 | [js](https://github.com/stefan-hoeck/idris2-dom) | base | [f699fe7](https://github.com/stefan-hoeck/idris2-dom/commit/f699fe7468982652790d5173a1c29b50e6f7eb75) |
