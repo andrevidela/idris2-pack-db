@@ -185,7 +185,7 @@
 | [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [2fb11d2](https://github.com/stefan-hoeck/idris2-streams/commit/2fb11d2d53ff91009210cb2030553b9375d5fe38) |
 | [streams-posix](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [2fb11d2](https://github.com/stefan-hoeck/idris2-streams/commit/2fb11d2d53ff91009210cb2030553b9375d5fe38) |
 | [string-builder](https://github.com/Z-snails/string-builder) |  | [6dfb5e0](https://github.com/Z-snails/string-builder/commit/6dfb5e0070274ead1b8fd4e1229b5254da7ddd15) |
-| [string-search](https://git.sr.ht/~janus/string-search) | base | [519de6b](https://git.sr.ht/~janus/string-search/commit/519de6bcc6a8e9c66941ed7d72bcce3bbdb17045) |
+| [string-search](https://git.sr.ht/~janus/string-search) | base | [96b3ba2](https://git.sr.ht/~janus/string-search/commit/96b3ba239f8bb7b2cf11b6078efde10057b5821a) |
 | [structures](https://git.sr.ht/~thatonelutenist/Structures) |  | [cd11a19](https://git.sr.ht/~thatonelutenist/Structures/commit/cd11a19794a139ccb14441c4d522de3d2b201083) |
 | [summary-stat](https://github.com/buzden/idris2-summary-stat) | bounded-doubles, weaker-traversals | [041ceab](https://github.com/buzden/idris2-summary-stat/commit/041ceabb30deff4eb67eb98256e24173b9b8f111) |
 | [svg](https://github.com/stefan-hoeck/idris2-svg) | base | [dc4784f](https://github.com/stefan-hoeck/idris2-svg/commit/dc4784fe70f45cc25f9bdd212df0dd6a0e9a67eb) |
