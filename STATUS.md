@@ -20,7 +20,7 @@
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
 | [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [cbad126](https://github.com/stefan-hoeck/idris2-array/commit/cbad126b94de20fc6238e8d9ace3d5c1d2c2dbb7) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
-| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [1ebc078](https://github.com/stefan-hoeck/idris2-async-dom/commit/1ebc078373067d629f57b4c10dbddc3797376666) |
+| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [c78d569](https://github.com/stefan-hoeck/idris2-async-dom/commit/c78d569905ce1dae91d21ff1d5b29dd5081cbba1) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
 | [async-js](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
 | [async-posix](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
