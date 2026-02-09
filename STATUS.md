@@ -20,7 +20,7 @@
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
 | [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [cbad126](https://github.com/stefan-hoeck/idris2-array/commit/cbad126b94de20fc6238e8d9ace3d5c1d2c2dbb7) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
-| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [c7dd3a6](https://github.com/stefan-hoeck/idris2-async-dom/commit/c7dd3a67b2b8c54d93df58e3e2374b463a4cdf25) |
+| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [8b7bcc9](https://github.com/stefan-hoeck/idris2-async-dom/commit/8b7bcc99c18f716c02b92740f9f2ec086def8286) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
 | [async-js](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
 | [async-posix](https://github.com/stefan-hoeck/idris2-async) | base, linear | [9d6e3e6](https://github.com/stefan-hoeck/idris2-async/commit/9d6e3e699343a232782a2268ee609fb5229ded38) |
@@ -182,8 +182,8 @@
 | [spidr](https://codeberg.org/joelberkeley/spidr) | base | [5a9755e](https://codeberg.org/joelberkeley/spidr/commit/5a9755ea387772e36f7bd316321c5bd1037c96ce) |
 | [sqlite3](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [51b1664](https://github.com/stefan-hoeck/idris2-sqlite3/commit/51b1664c95a3fa0ba245ffc36fabfc4e0ed5db3d) |
 | [sqlite3-rio](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [51b1664](https://github.com/stefan-hoeck/idris2-sqlite3/commit/51b1664c95a3fa0ba245ffc36fabfc4e0ed5db3d) |
-| [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [d7bf310](https://github.com/stefan-hoeck/idris2-streams/commit/d7bf31059752ae6b3b8f6158ba70f744bd89d4ca) |
-| [streams-posix](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [d7bf310](https://github.com/stefan-hoeck/idris2-streams/commit/d7bf31059752ae6b3b8f6158ba70f744bd89d4ca) |
+| [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [5139912](https://github.com/stefan-hoeck/idris2-streams/commit/51399127eb162d1af042bad6992b59dcef2c8af0) |
+| [streams-posix](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [5139912](https://github.com/stefan-hoeck/idris2-streams/commit/51399127eb162d1af042bad6992b59dcef2c8af0) |
 | [string-builder](https://github.com/Z-snails/string-builder) |  | [6dfb5e0](https://github.com/Z-snails/string-builder/commit/6dfb5e0070274ead1b8fd4e1229b5254da7ddd15) |
 | [string-search](https://git.sr.ht/~janus/string-search) | base | [96b3ba2](https://git.sr.ht/~janus/string-search/commit/96b3ba239f8bb7b2cf11b6078efde10057b5821a) |
 | [structures](https://git.sr.ht/~thatonelutenist/Structures) |  | [cd11a19](https://git.sr.ht/~thatonelutenist/Structures/commit/cd11a19794a139ccb14441c4d522de3d2b201083) |
