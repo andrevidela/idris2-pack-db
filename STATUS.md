@@ -55,7 +55,7 @@
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
-| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [721cc13](https://github.com/buzden/deptycheck/commit/721cc13542eee9d7cb4dc48a45262c5e166ca769) |
+| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [4b069af](https://github.com/buzden/deptycheck/commit/4b069af953758d5f76bc2c541f5a9332b18f5dc8) |
 | [dinwiddy](https://github.com/bobbbay/dinwiddy) | contrib | [61a81c5](https://github.com/bobbbay/dinwiddy/commit/61a81c55e48e4b7b551fb7493d623cb7659a37ce) |
 | [distribution](https://github.com/idris-bayes/distribution) | contrib | [bced45a](https://github.com/idris-bayes/distribution/commit/bced45ab5367184c8a4d88ce695c9a4714c34c98) |
 | [dom](https://github.com/stefan-hoeck/idris2-dom) | base | [f699fe7](https://github.com/stefan-hoeck/idris2-dom/commit/f699fe7468982652790d5173a1c29b50e6f7eb75) |
@@ -67,7 +67,7 @@
 | [effect](https://github.com/Russoul/Idris2-Effect) |  | [b76dce1](https://github.com/Russoul/Idris2-Effect/commit/b76dce14b79a5f743243a294c3474c6f113f8e3a) |
 | [elab-pretty](https://github.com/stefan-hoeck/idris2-elab-util) | base, prettier | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
 | [elab-util](https://github.com/stefan-hoeck/idris2-elab-util) | base | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
-| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [721cc13](https://github.com/buzden/deptycheck/commit/721cc13542eee9d7cb4dc48a45262c5e166ca769) |
+| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [4b069af](https://github.com/buzden/deptycheck/commit/4b069af953758d5f76bc2c541f5a9332b18f5dc8) |
 | [elin](https://github.com/stefan-hoeck/idris2-elin) | base, linear | [c66a670](https://github.com/stefan-hoeck/idris2-elin/commit/c66a6709397431150235e8bdddc0a21fcbedb7de) |
 | [epoll](https://github.com/stefan-hoeck/idris2-epoll) | base, linear | [d136549](https://github.com/stefan-hoeck/idris2-epoll/commit/d136549ddf1aa1d8aa8e3c18907c11db85c88781) |
 | [extrafun](https://github.com/jcranch/extrafun) | contrib | [86cca4e](https://github.com/jcranch/extrafun/commit/86cca4e39180fce2497880fcefe6943ec2396670) |
