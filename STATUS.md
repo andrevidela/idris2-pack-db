@@ -71,7 +71,7 @@
 | [elin](https://github.com/stefan-hoeck/idris2-elin) | base, linear | [c66a670](https://github.com/stefan-hoeck/idris2-elin/commit/c66a6709397431150235e8bdddc0a21fcbedb7de) |
 | [epoll](https://github.com/stefan-hoeck/idris2-epoll) | base, linear | [d136549](https://github.com/stefan-hoeck/idris2-epoll/commit/d136549ddf1aa1d8aa8e3c18907c11db85c88781) |
 | [extrafun](https://github.com/jcranch/extrafun) | contrib | [86cca4e](https://github.com/jcranch/extrafun/commit/86cca4e39180fce2497880fcefe6943ec2396670) |
-| [filepath](https://github.com/stefan-hoeck/idris2-filepath) | base | [0441eae](https://github.com/stefan-hoeck/idris2-filepath/commit/0441eaee9ff1d921fc3f4619c2a8d542588c0e99) |
+| [filepath](https://github.com/stefan-hoeck/idris2-filepath) | base | [4e8fe9a](https://github.com/stefan-hoeck/idris2-filepath/commit/4e8fe9af80d457adc63904ebf58e223ba35c62aa) |
 | [fin-lizzie](https://github.com/buzden/idris2-fin-lizzie) |  | [0bfed91](https://github.com/buzden/idris2-fin-lizzie/commit/0bfed91651ea60a4b4a97ed12494da0eba769b8f) |
 | [finite](https://github.com/stefan-hoeck/idris2-finite) | base | [5d9a9de](https://github.com/stefan-hoeck/idris2-finite/commit/5d9a9de5466030f3ffc5a0c2ad4ef647bc882a30) |
 | [fix-whitespace](https://github.com/stefan-hoeck/idris-fix-whitespace) | base, prettier | [ec8d82a](https://github.com/stefan-hoeck/idris-fix-whitespace/commit/ec8d82a88cc12a787e0c81b9ce4d85d90f6291ee) |
