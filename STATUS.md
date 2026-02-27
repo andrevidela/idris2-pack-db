@@ -189,7 +189,7 @@
 | [structures](https://git.sr.ht/~thatonelutenist/Structures) |  | [cd11a19](https://git.sr.ht/~thatonelutenist/Structures/commit/cd11a19794a139ccb14441c4d522de3d2b201083) |
 | [summary-stat](https://github.com/buzden/idris2-summary-stat) | bounded-doubles, weaker-traversals | [041ceab](https://github.com/buzden/idris2-summary-stat/commit/041ceabb30deff4eb67eb98256e24173b9b8f111) |
 | [svg](https://github.com/stefan-hoeck/idris2-svg) | base | [dc4784f](https://github.com/stefan-hoeck/idris2-svg/commit/dc4784fe70f45cc25f9bdd212df0dd6a0e9a67eb) |
-| [swirl](https://github.com/buzden/idris2-swirl) | if-unsolved-implicit, base | [94b6eb1](https://github.com/buzden/idris2-swirl/commit/94b6eb18d9b68cba885090b2866091d97d7b1602) |
+| [swirl](https://github.com/buzden/idris2-swirl) | if-unsolved-implicit, base | [6fee6df](https://github.com/buzden/idris2-swirl/commit/6fee6df50cf3c369e80bca06372a81687bf6b248) |
 | [systemd](https://github.com/Matthew-Mosior/idris2-systemd) | base, linear | [e93a68e](https://github.com/Matthew-Mosior/idris2-systemd/commit/e93a68eff6b5b027d093b44481c245f9cad767d3) |
 | [tailrec](https://github.com/stefan-hoeck/idris2-tailrec) | base | [2734dfd](https://github.com/stefan-hoeck/idris2-tailrec/commit/2734dfdac3dedafcc0140b5388af760d0729b62f) |
 | [telescope](https://gitlab.com/avidela/idris2-telescope.git) |  | [e20f473](https://gitlab.com/avidela/idris2-telescope.git/commit/e20f473ddd18f1104c0a2a8bc17b36b2ea9fad03) |
