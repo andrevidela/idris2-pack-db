@@ -58,7 +58,7 @@
 | [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [9a7c695](https://github.com/buzden/deptycheck/commit/9a7c695a1530376ec010791b4c47d36f27eb811a) |
 | [dinwiddy](https://github.com/bobbbay/dinwiddy) | contrib | [61a81c5](https://github.com/bobbbay/dinwiddy/commit/61a81c55e48e4b7b551fb7493d623cb7659a37ce) |
 | [distribution](https://github.com/idris-bayes/distribution) | contrib | [bced45a](https://github.com/idris-bayes/distribution/commit/bced45ab5367184c8a4d88ce695c9a4714c34c98) |
-| [dom](https://github.com/stefan-hoeck/idris2-dom) | base | [f699fe7](https://github.com/stefan-hoeck/idris2-dom/commit/f699fe7468982652790d5173a1c29b50e6f7eb75) |
+| [dom](https://github.com/stefan-hoeck/idris2-dom) | base | [2bb2071](https://github.com/stefan-hoeck/idris2-dom/commit/2bb2071a849f2ffd07211cb5f23b9e39c9ded319) |
 | [dom-mvc](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [d2c43a7](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/d2c43a7464357e957af53a0ada0da193cef1aacd) |
 | [dom-mvc-extra](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [d2c43a7](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/d2c43a7464357e957af53a0ada0da193cef1aacd) |
 | [dot-gv](https://github.com/CodingCellist/idris2-dot-parse) | linear | [369fe32](https://github.com/CodingCellist/idris2-dot-parse/commit/369fe32ed8d716cee6a07969b7b31e6d2cf046ae) |
@@ -105,7 +105,7 @@
 | [ilex-toml](https://github.com/stefan-hoeck/idris2-ilex) | base, linear | [a07a214](https://github.com/stefan-hoeck/idris2-ilex/commit/a07a214d2284b73622f7ff583b7c2c3f146155ab) |
 | [indexed](https://github.com/mattpolzin/idris-indexed) |  | [c99707f](https://github.com/mattpolzin/idris-indexed/commit/c99707f1db2efa2e97c465b16b525cb79b28f349) |
 | [indexed-graph](https://github.com/stefan-hoeck/idris2-indexed-graph) | base, linear | [6e54290](https://github.com/stefan-hoeck/idris2-indexed-graph/commit/6e54290f74ee4285b1db061a63a135c85aaafc9f) |
-| [js](https://github.com/stefan-hoeck/idris2-dom) | base | [f699fe7](https://github.com/stefan-hoeck/idris2-dom/commit/f699fe7468982652790d5173a1c29b50e6f7eb75) |
+| [js](https://github.com/stefan-hoeck/idris2-dom) | base | [2bb2071](https://github.com/stefan-hoeck/idris2-dom/commit/2bb2071a849f2ffd07211cb5f23b9e39c9ded319) |
 | [json](https://github.com/stefan-hoeck/idris2-json) | base, linear | [b15189c](https://github.com/stefan-hoeck/idris2-json/commit/b15189c7198143e1357802ce8748dc1ab544da76) |
 | [json-simple](https://github.com/stefan-hoeck/idris2-json) | base, linear | [b15189c](https://github.com/stefan-hoeck/idris2-json/commit/b15189c7198143e1357802ce8748dc1ab544da76) |
 | [just-a-monad](https://github.com/Russoul/Just-a-Monad) | contrib | [4a69d28](https://github.com/Russoul/Just-a-Monad/commit/4a69d28651c6edefd30d313d6defd5914cb44931) |
