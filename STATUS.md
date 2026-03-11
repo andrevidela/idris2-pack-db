@@ -41,7 +41,7 @@
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
 | [cont](https://git.sr.ht/~janus/cont) | base, linear | [5ca3c85](https://git.sr.ht/~janus/cont/commit/5ca3c85f6356c1c4b860ac7cf65caa9b39f0bf21) |
-| [containers](https://github.com/idris-community/idris2-containers) | base, linear | [1e92a94](https://github.com/idris-community/idris2-containers/commit/1e92a94bea542139ef75304732882883624a4a6f) |
+| [containers](https://github.com/idris-community/idris2-containers) | base, linear | [1637708](https://github.com/idris-community/idris2-containers/commit/1637708b208c9de8ef4d98d4e6e039a7e716fd94) |
 | [continuation-monad](https://gitlab.com/avidela/continuation-monad) |  | [76ad994](https://gitlab.com/avidela/continuation-monad/commit/76ad994491b3bb5b890a84fa9b320b64dd5370fd) |
 | [contrib](https://github.com/idris-lang/Idris2) |  | [80fd5e4](https://github.com/idris-lang/Idris2/commit/80fd5e4d754888e02a734b05011a98ee4334fd20) |
 | [control-flow](https://github.com/JankaGramofonomanka/idris-compiler-tools) | theory | [e323d47](https://github.com/JankaGramofonomanka/idris-compiler-tools/commit/e323d4707231ea0fb57b6b4015a35a6440cdc42a) |
