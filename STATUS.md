@@ -18,7 +18,7 @@
 | [algebra](https://github.com/stefan-hoeck/idris2-algebra) | base | [e279843](https://github.com/stefan-hoeck/idris2-algebra/commit/e279843a99fe250e2fcd928c774ddb6ffe36815b) |
 | [ansi](https://github.com/idris-community/idris2-ansi) | base | [90f80ac](https://github.com/idris-community/idris2-ansi/commit/90f80ac513572877a3de818b43f837fa59265fec) |
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
-| [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [c9fa688](https://github.com/stefan-hoeck/idris2-array/commit/c9fa6888a47746a071d7db79dff3110700586e66) |
+| [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [47fb4c0](https://github.com/stefan-hoeck/idris2-array/commit/47fb4c0eef3223a02d60c832a0e6b98193d4c44c) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [ce17643](https://github.com/stefan-hoeck/idris2-async/commit/ce1764384fcf024c135ae97d97894c696c31f505) |
 | [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [552f97e](https://github.com/stefan-hoeck/idris2-async-dom/commit/552f97e6395e083fa18b4a81f67e14030a750431) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [ce17643](https://github.com/stefan-hoeck/idris2-async/commit/ce1764384fcf024c135ae97d97894c696c31f505) |
