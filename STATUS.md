@@ -193,7 +193,7 @@
 | [systemd](https://github.com/Matthew-Mosior/idris2-systemd) | base, linear | [e93a68e](https://github.com/Matthew-Mosior/idris2-systemd/commit/e93a68eff6b5b027d093b44481c245f9cad767d3) |
 | [tailrec](https://github.com/stefan-hoeck/idris2-tailrec) | base | [2734dfd](https://github.com/stefan-hoeck/idris2-tailrec/commit/2734dfdac3dedafcc0140b5388af760d0729b62f) |
 | [telescope](https://gitlab.com/avidela/idris2-telescope.git) |  | [e20f473](https://gitlab.com/avidela/idris2-telescope.git/commit/e20f473ddd18f1104c0a2a8bc17b36b2ea9fad03) |
-| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [a4c6cbc](https://github.com/bgavran/TensorType/commit/a4c6cbc8061fca52d903461b8ed17a80a14af601) |
+| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [5ceb225](https://github.com/bgavran/TensorType/commit/5ceb2250bff20c980de7aa9aa3d5a4731596a395) |
 | [test](https://github.com/idris-lang/Idris2) | contrib | [37d2915](https://github.com/idris-lang/Idris2/commit/37d29157a3d5d65d8dca3623d42ebee6cd44a984) |
 | [tester](https://github.com/hydrolarus/tester-idr) | contrib | [3dcdb54](https://github.com/hydrolarus/tester-idr/commit/3dcdb54ed578a14597a17cb93c926734a9da69ca) |
 | [theory](https://github.com/JankaGramofonomanka/idris-theory) |  | [ff2ec34](https://github.com/JankaGramofonomanka/idris-theory/commit/ff2ec3487bfb70746173cdafda09ee55418a63f0) |
