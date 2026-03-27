@@ -41,7 +41,7 @@
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
 | [cont](https://git.sr.ht/~janus/cont) | base, linear | [5ca3c85](https://git.sr.ht/~janus/cont/commit/5ca3c85f6356c1c4b860ac7cf65caa9b39f0bf21) |
-| [containers](https://github.com/idris-community/idris2-containers) | base, linear | [e983607](https://github.com/idris-community/idris2-containers/commit/e983607c3a31ac422a5eb1f7f92e05efefe80bff) |
+| [containers](https://github.com/idris-community/idris2-containers) | base, linear | [11a553f](https://github.com/idris-community/idris2-containers/commit/11a553f995c3efb58d3f7382d88e7a3ecf61ee75) |
 | [continuation-monad](https://gitlab.com/avidela/continuation-monad) |  | [76ad994](https://gitlab.com/avidela/continuation-monad/commit/76ad994491b3bb5b890a84fa9b320b64dd5370fd) |
 | [contrib](https://github.com/idris-lang/Idris2) |  | [37d2915](https://github.com/idris-lang/Idris2/commit/37d29157a3d5d65d8dca3623d42ebee6cd44a984) |
 | [control-flow](https://github.com/JankaGramofonomanka/idris-compiler-tools) | theory | [e323d47](https://github.com/JankaGramofonomanka/idris-compiler-tools/commit/e323d4707231ea0fb57b6b4015a35a6440cdc42a) |
@@ -193,7 +193,7 @@
 | [systemd](https://github.com/Matthew-Mosior/idris2-systemd) | base, linear | [e93a68e](https://github.com/Matthew-Mosior/idris2-systemd/commit/e93a68eff6b5b027d093b44481c245f9cad767d3) |
 | [tailrec](https://github.com/stefan-hoeck/idris2-tailrec) | base | [2734dfd](https://github.com/stefan-hoeck/idris2-tailrec/commit/2734dfdac3dedafcc0140b5388af760d0729b62f) |
 | [telescope](https://gitlab.com/avidela/idris2-telescope.git) |  | [e20f473](https://gitlab.com/avidela/idris2-telescope.git/commit/e20f473ddd18f1104c0a2a8bc17b36b2ea9fad03) |
-| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [5ceb225](https://github.com/bgavran/TensorType/commit/5ceb2250bff20c980de7aa9aa3d5a4731596a395) |
+| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [56072e0](https://github.com/bgavran/TensorType/commit/56072e0e08593d69e726ae4ba8caa23f8b3804e8) |
 | [test](https://github.com/idris-lang/Idris2) | contrib | [37d2915](https://github.com/idris-lang/Idris2/commit/37d29157a3d5d65d8dca3623d42ebee6cd44a984) |
 | [tester](https://github.com/hydrolarus/tester-idr) | contrib | [3dcdb54](https://github.com/hydrolarus/tester-idr/commit/3dcdb54ed578a14597a17cb93c926734a9da69ca) |
 | [theory](https://github.com/JankaGramofonomanka/idris-theory) |  | [ff2ec34](https://github.com/JankaGramofonomanka/idris-theory/commit/ff2ec3487bfb70746173cdafda09ee55418a63f0) |
