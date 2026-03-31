@@ -35,8 +35,8 @@
 | [byteorder](https://git.sr.ht/~stygianentity/byteorder-idr) | base | [8432cdd](https://git.sr.ht/~stygianentity/byteorder-idr/commit/8432cdd74a4129f95895586cbec203b15e89c91a) |
 | [bytestring](https://github.com/stefan-hoeck/idris2-bytestring) | base, linear | [230d857](https://github.com/stefan-hoeck/idris2-bytestring/commit/230d8577f02de22251786f128ec921078da4d880) |
 | [c-ffi](https://codeberg.org/joelberkeley/c-ffi) |  | [6c54ca8](https://codeberg.org/joelberkeley/c-ffi/commit/6c54ca867a124b3fa291b2ac3acdf54cd0f30110) |
-| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [e9d2b8b](https://github.com/stefan-hoeck/idris2-chem/commit/e9d2b8bd34b523a88d60cc5b74f42585ebb82033) |
-| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [e9d2b8b](https://github.com/stefan-hoeck/idris2-chem/commit/e9d2b8bd34b523a88d60cc5b74f42585ebb82033) |
+| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [8f22534](https://github.com/stefan-hoeck/idris2-chem/commit/8f2253422d12719205f5ec9e4dd89c6b27b8f7b4) |
+| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [8f22534](https://github.com/stefan-hoeck/idris2-chem/commit/8f2253422d12719205f5ec9e4dd89c6b27b8f7b4) |
 | [collection-utils](https://github.com/buzden/idris2-collection-utils) | best-alternative, fin-lizzie, if-unsolved-implicit | [6df30b1](https://github.com/buzden/idris2-collection-utils/commit/6df30b19c55233939065129b1c488f4aa4cdf60f) |
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
@@ -51,7 +51,7 @@
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
 | [css](https://github.com/stefan-hoeck/idris2-css) | base | [ee1ed13](https://github.com/stefan-hoeck/idris2-css/commit/ee1ed13fc518d2466018b9d915857f2e901f4894) |
-| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear | [6a7b58a](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/6a7b58a55976e534c88199abb14a4d3c5eaf987f) |
+| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear | [b442ecb](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/b442ecb84cb8c379bfc2854468b023abbb622469) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
