@@ -35,8 +35,8 @@
 | [byteorder](https://git.sr.ht/~stygianentity/byteorder-idr) | base | [8432cdd](https://git.sr.ht/~stygianentity/byteorder-idr/commit/8432cdd74a4129f95895586cbec203b15e89c91a) |
 | [bytestring](https://github.com/stefan-hoeck/idris2-bytestring) | base, linear | [230d857](https://github.com/stefan-hoeck/idris2-bytestring/commit/230d8577f02de22251786f128ec921078da4d880) |
 | [c-ffi](https://codeberg.org/joelberkeley/c-ffi) |  | [6c54ca8](https://codeberg.org/joelberkeley/c-ffi/commit/6c54ca867a124b3fa291b2ac3acdf54cd0f30110) |
-| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [710c4c9](https://github.com/stefan-hoeck/idris2-chem/commit/710c4c9fc1cd728bfe0e536288f5cf99500bfe2f) |
-| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [710c4c9](https://github.com/stefan-hoeck/idris2-chem/commit/710c4c9fc1cd728bfe0e536288f5cf99500bfe2f) |
+| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [f5c131e](https://github.com/stefan-hoeck/idris2-chem/commit/f5c131edd00a532894f964c19e3a69842a660de0) |
+| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [f5c131e](https://github.com/stefan-hoeck/idris2-chem/commit/f5c131edd00a532894f964c19e3a69842a660de0) |
 | [collection-utils](https://github.com/buzden/idris2-collection-utils) | best-alternative, fin-lizzie, if-unsolved-implicit | [6df30b1](https://github.com/buzden/idris2-collection-utils/commit/6df30b19c55233939065129b1c488f4aa4cdf60f) |
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
