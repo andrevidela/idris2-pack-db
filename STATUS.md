@@ -35,8 +35,8 @@
 | [byteorder](https://git.sr.ht/~stygianentity/byteorder-idr) | base | [8432cdd](https://git.sr.ht/~stygianentity/byteorder-idr/commit/8432cdd74a4129f95895586cbec203b15e89c91a) |
 | [bytestring](https://github.com/stefan-hoeck/idris2-bytestring) | base, linear | [230d857](https://github.com/stefan-hoeck/idris2-bytestring/commit/230d8577f02de22251786f128ec921078da4d880) |
 | [c-ffi](https://codeberg.org/joelberkeley/c-ffi) |  | [6c54ca8](https://codeberg.org/joelberkeley/c-ffi/commit/6c54ca867a124b3fa291b2ac3acdf54cd0f30110) |
-| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear | [9aa8823](https://github.com/stefan-hoeck/idris2-chem/commit/9aa882389fdaefb9ba4e38f746455e423d47e883) |
-| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [9aa8823](https://github.com/stefan-hoeck/idris2-chem/commit/9aa882389fdaefb9ba4e38f746455e423d47e883) |
+| [chem](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier | [0a5a83b](https://github.com/stefan-hoeck/idris2-chem/commit/0a5a83b709c6998d2bd600c1852916b9bf6b6015) |
+| [chem-generators](https://github.com/stefan-hoeck/idris2-chem) | base, linear, prettier, bounded-doubles, weaker-traversals | [0a5a83b](https://github.com/stefan-hoeck/idris2-chem/commit/0a5a83b709c6998d2bd600c1852916b9bf6b6015) |
 | [collection-utils](https://github.com/buzden/idris2-collection-utils) | best-alternative, fin-lizzie, if-unsolved-implicit | [6df30b1](https://github.com/buzden/idris2-collection-utils/commit/6df30b19c55233939065129b1c488f4aa4cdf60f) |
 | [collie](https://github.com/ohad/collie) | contrib | [a35498d](https://github.com/ohad/collie/commit/a35498d8d5d24ae677458aa0b54afeea0c8b7198) |
 | [comonad](https://github.com/stefan-hoeck/idris2-comonad) | base | [154292a](https://github.com/stefan-hoeck/idris2-comonad/commit/154292a389edd7496bd4f41465bcba6844cede52) |
@@ -51,11 +51,11 @@
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
 | [css](https://github.com/stefan-hoeck/idris2-css) | base | [ee1ed13](https://github.com/stefan-hoeck/idris2-css/commit/ee1ed13fc518d2466018b9d915857f2e901f4894) |
-| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear, prettier | [7fceb69](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/7fceb69963185bde5533d26b8364dc88a6588704) |
+| [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear, prettier | [1fd56b5](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/1fd56b504629c0f3b4217a1601737e6e74fe0d7c) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
-| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [8426d13](https://github.com/buzden/deptycheck/commit/8426d13e6c0e017dba357e53da584a22edf547b4) |
+| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [d827f6f](https://github.com/buzden/deptycheck/commit/d827f6f332f1c2be41828ca1013f374844880a7d) |
 | [dinwiddy](https://github.com/bobbbay/dinwiddy) | contrib | [61a81c5](https://github.com/bobbbay/dinwiddy/commit/61a81c55e48e4b7b551fb7493d623cb7659a37ce) |
 | [distribution](https://github.com/idris-bayes/distribution) | contrib | [bced45a](https://github.com/idris-bayes/distribution/commit/bced45ab5367184c8a4d88ce695c9a4714c34c98) |
 | [dom](https://github.com/stefan-hoeck/idris2-dom) | base | [2bb2071](https://github.com/stefan-hoeck/idris2-dom/commit/2bb2071a849f2ffd07211cb5f23b9e39c9ded319) |
@@ -67,7 +67,7 @@
 | [effect](https://github.com/Russoul/Idris2-Effect) |  | [b76dce1](https://github.com/Russoul/Idris2-Effect/commit/b76dce14b79a5f743243a294c3474c6f113f8e3a) |
 | [elab-pretty](https://github.com/stefan-hoeck/idris2-elab-util) | base, prettier | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
 | [elab-util](https://github.com/stefan-hoeck/idris2-elab-util) | base | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
-| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [8426d13](https://github.com/buzden/deptycheck/commit/8426d13e6c0e017dba357e53da584a22edf547b4) |
+| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [d827f6f](https://github.com/buzden/deptycheck/commit/d827f6f332f1c2be41828ca1013f374844880a7d) |
 | [elin](https://github.com/stefan-hoeck/idris2-elin) | base, linear | [c66a670](https://github.com/stefan-hoeck/idris2-elin/commit/c66a6709397431150235e8bdddc0a21fcbedb7de) |
 | [epoll](https://github.com/stefan-hoeck/idris2-epoll) | base, linear | [9967773](https://github.com/stefan-hoeck/idris2-epoll/commit/996777313593ef4e38509f49255800ba2b322588) |
 | [extrafun](https://github.com/jcranch/extrafun) | contrib | [86cca4e](https://github.com/jcranch/extrafun/commit/86cca4e39180fce2497880fcefe6943ec2396670) |
