@@ -20,7 +20,7 @@
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
 | [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [8f9c84b](https://github.com/stefan-hoeck/idris2-array/commit/8f9c84bc71dae21c6fe430296c6a094f7706748c) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [1cd4007](https://github.com/stefan-hoeck/idris2-async/commit/1cd4007efcce51efc79c2697a925608826f9d75d) |
-| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [ec5fca6](https://github.com/stefan-hoeck/idris2-async-dom/commit/ec5fca6a65e5f167c17eca858c87c0b19abaefd1) |
+| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [9e9da3a](https://github.com/stefan-hoeck/idris2-async-dom/commit/9e9da3a450587ec8e96cf0a1f1d9a43b7db92abd) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [1cd4007](https://github.com/stefan-hoeck/idris2-async/commit/1cd4007efcce51efc79c2697a925608826f9d75d) |
 | [async-js](https://github.com/stefan-hoeck/idris2-async) | base, linear | [1cd4007](https://github.com/stefan-hoeck/idris2-async/commit/1cd4007efcce51efc79c2697a925608826f9d75d) |
 | [async-posix](https://github.com/stefan-hoeck/idris2-async) | base, linear | [1cd4007](https://github.com/stefan-hoeck/idris2-async/commit/1cd4007efcce51efc79c2697a925608826f9d75d) |
@@ -50,24 +50,24 @@
 | [cozippable](https://github.com/buzden/idris2-cozippable) |  | [157960a](https://github.com/buzden/idris2-cozippable/commit/157960afd73f8f30a9521f936945991dd8369a35) |
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
-| [css](https://github.com/stefan-hoeck/idris2-css) | base | [ee1ed13](https://github.com/stefan-hoeck/idris2-css/commit/ee1ed13fc518d2466018b9d915857f2e901f4894) |
+| [css](https://github.com/stefan-hoeck/idris2-css) | base | [a733eb7](https://github.com/stefan-hoeck/idris2-css/commit/a733eb7e419b582189997742f61040e4a21bebba) |
 | [cyby-draw](https://github.com/stefan-hoeck/idris2-cyby-draw) | base, linear, prettier | [d14a6b1](https://github.com/stefan-hoeck/idris2-cyby-draw/commit/d14a6b165b4d59591fca087692f71b04a74c197c) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
-| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [d827f6f](https://github.com/buzden/deptycheck/commit/d827f6f332f1c2be41828ca1013f374844880a7d) |
+| [deptycheck](https://github.com/buzden/deptycheck) | base, best-alternative, fin-lizzie, if-unsolved-implicit, linear, cozippable, prettier, mk, mtl-tuple-impls | [1e82899](https://github.com/buzden/deptycheck/commit/1e828990ed2cdb2e46a28e1aba7718efa500ca9e) |
 | [dinwiddy](https://github.com/bobbbay/dinwiddy) | contrib | [61a81c5](https://github.com/bobbbay/dinwiddy/commit/61a81c55e48e4b7b551fb7493d623cb7659a37ce) |
 | [distribution](https://github.com/idris-bayes/distribution) | contrib | [bced45a](https://github.com/idris-bayes/distribution/commit/bced45ab5367184c8a4d88ce695c9a4714c34c98) |
 | [dom](https://github.com/stefan-hoeck/idris2-dom) | base | [2bb2071](https://github.com/stefan-hoeck/idris2-dom/commit/2bb2071a849f2ffd07211cb5f23b9e39c9ded319) |
-| [dom-mvc](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [d2c43a7](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/d2c43a7464357e957af53a0ada0da193cef1aacd) |
-| [dom-mvc-extra](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [d2c43a7](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/d2c43a7464357e957af53a0ada0da193cef1aacd) |
+| [dom-mvc](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [de2c2b3](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/de2c2b37e06410c48388ef629c07c6b26fe64b34) |
+| [dom-mvc-extra](https://github.com/stefan-hoeck/idris2-dom-mvc) | base, linear | [de2c2b3](https://github.com/stefan-hoeck/idris2-dom-mvc/commit/de2c2b37e06410c48388ef629c07c6b26fe64b34) |
 | [dot-gv](https://github.com/CodingCellist/idris2-dot-parse) | linear | [369fe32](https://github.com/CodingCellist/idris2-dot-parse/commit/369fe32ed8d716cee6a07969b7b31e6d2cf046ae) |
 | [dtypes](https://github.com/JankaGramofonomanka/idris-dtypes) |  | [028eb21](https://github.com/JankaGramofonomanka/idris-dtypes/commit/028eb21c8f157037b2fa75e3f911cb33471e2774) |
 | [eff](https://github.com/stefan-hoeck/idris2-eff) | prelude, base | [69f02c0](https://github.com/stefan-hoeck/idris2-eff/commit/69f02c0209c2d92215557b73df76507933588a91) |
 | [effect](https://github.com/Russoul/Idris2-Effect) |  | [b76dce1](https://github.com/Russoul/Idris2-Effect/commit/b76dce14b79a5f743243a294c3474c6f113f8e3a) |
 | [elab-pretty](https://github.com/stefan-hoeck/idris2-elab-util) | base, prettier | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
 | [elab-util](https://github.com/stefan-hoeck/idris2-elab-util) | base | [90a2363](https://github.com/stefan-hoeck/idris2-elab-util/commit/90a2363256cbaafd3b0cc4e2bf36003761b6c4f0) |
-| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [d827f6f](https://github.com/buzden/deptycheck/commit/d827f6f332f1c2be41828ca1013f374844880a7d) |
+| [elab-util-extra](https://github.com/buzden/deptycheck) | best-alternative, fin-lizzie, if-unsolved-implicit, base, linear, cozippable, prettier, mk, mtl-tuple-impls | [1e82899](https://github.com/buzden/deptycheck/commit/1e828990ed2cdb2e46a28e1aba7718efa500ca9e) |
 | [elin](https://github.com/stefan-hoeck/idris2-elin) | base, linear | [c66a670](https://github.com/stefan-hoeck/idris2-elin/commit/c66a6709397431150235e8bdddc0a21fcbedb7de) |
 | [epoll](https://github.com/stefan-hoeck/idris2-epoll) | base, linear | [9967773](https://github.com/stefan-hoeck/idris2-epoll/commit/996777313593ef4e38509f49255800ba2b322588) |
 | [extrafun](https://github.com/jcranch/extrafun) | contrib | [86cca4e](https://github.com/jcranch/extrafun/commit/86cca4e39180fce2497880fcefe6943ec2396670) |
@@ -148,8 +148,8 @@
 | [pg-idris](https://github.com/mattpolzin/pg-idris) | indexed, base, linear | [509bc46](https://github.com/mattpolzin/pg-idris/commit/509bc468c9b30cdd0e7f554deeec9cf1b0832863) |
 | [pg-types](https://git.sr.ht/~janus/pg-types) | base | [b854bbc](https://git.sr.ht/~janus/pg-types/commit/b854bbcfb5e9e303d836d9b5a733b0060eb9e90a) |
 | [pipelines](https://gitlab.com/glaive-research/pipelines.git) | contrib | [a931a12](https://gitlab.com/glaive-research/pipelines.git/commit/a931a12b0fc3656ad279368deb4428cb2b38c144) |
-| [pjrt-plugin-xla-cpu](https://codeberg.org/joelberkeley/spidr) | base | [419aa40](https://codeberg.org/joelberkeley/spidr/commit/419aa40b7a7b9efe805dbcda413cad991ee3d602) |
-| [pjrt-plugin-xla-cuda](https://codeberg.org/joelberkeley/spidr) | base | [419aa40](https://codeberg.org/joelberkeley/spidr/commit/419aa40b7a7b9efe805dbcda413cad991ee3d602) |
+| [pjrt-plugin-xla-cpu](https://codeberg.org/joelberkeley/spidr) | base | [704b2fa](https://codeberg.org/joelberkeley/spidr/commit/704b2fa064d99a5220a60d516928029e2a25c79e) |
+| [pjrt-plugin-xla-cuda](https://codeberg.org/joelberkeley/spidr) | base | [704b2fa](https://codeberg.org/joelberkeley/spidr/commit/704b2fa064d99a5220a60d516928029e2a25c79e) |
 | [positive-nat](https://github.com/buzden/idris2-positive-nat) | if-unsolved-implicit | [6f0858b](https://github.com/buzden/idris2-positive-nat/commit/6f0858bc2158059231110babd02fa40b6ea3ff21) |
 | [posix](https://github.com/stefan-hoeck/idris2-linux) | base, linear | [f34c638](https://github.com/stefan-hoeck/idris2-linux/commit/f34c638ce71f0a46b8b0ef471e2a43e9a91a5853) |
 | [prelude](https://github.com/idris-lang/Idris2) |  | [214eb45](https://github.com/idris-lang/Idris2/commit/214eb45472e15187e6f932c6820a0f0d5542a18e) |
@@ -179,7 +179,7 @@
 | [sha](https://git.sr.ht/~janus/sha) | base | [24a0a37](https://git.sr.ht/~janus/sha/commit/24a0a37332a97187e9e1bf923a0465b58f07a1a4) |
 | [snocvect](https://github.com/mattpolzin/idris-snocvect) |  | [dc2492b](https://github.com/mattpolzin/idris-snocvect/commit/dc2492be7e1d471c9b4d21e30339ea1ad8d24afa) |
 | [sop](https://github.com/stefan-hoeck/idris2-sop) | base | [1e01b67](https://github.com/stefan-hoeck/idris2-sop/commit/1e01b67a11857e9c9a0ea5fb2870bd915b5a223d) |
-| [spidr](https://codeberg.org/joelberkeley/spidr) | base | [419aa40](https://codeberg.org/joelberkeley/spidr/commit/419aa40b7a7b9efe805dbcda413cad991ee3d602) |
+| [spidr](https://codeberg.org/joelberkeley/spidr) | base | [704b2fa](https://codeberg.org/joelberkeley/spidr/commit/704b2fa064d99a5220a60d516928029e2a25c79e) |
 | [sqlite3](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [9241b49](https://github.com/stefan-hoeck/idris2-sqlite3/commit/9241b497a01c477c3a4014b9487dee300d83fe77) |
 | [sqlite3-rio](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [9241b49](https://github.com/stefan-hoeck/idris2-sqlite3/commit/9241b497a01c477c3a4014b9487dee300d83fe77) |
 | [streams](https://github.com/stefan-hoeck/idris2-streams) | base, linear | [dd56316](https://github.com/stefan-hoeck/idris2-streams/commit/dd56316d102c4736ba24f47bea72fc3a9008585f) |
