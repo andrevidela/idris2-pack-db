@@ -50,7 +50,7 @@
 | [cozippable](https://github.com/buzden/idris2-cozippable) |  | [157960a](https://github.com/buzden/idris2-cozippable/commit/157960afd73f8f30a9521f936945991dd8369a35) |
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
-| [css](https://github.com/stefan-hoeck/idris2-css) | base | [a300a4e](https://github.com/stefan-hoeck/idris2-css/commit/a300a4e755c6789e8af665a7f299c5ef012e4b1c) |
+| [css](https://github.com/stefan-hoeck/idris2-css) | base | [de7e9db](https://github.com/stefan-hoeck/idris2-css/commit/de7e9dba95dad7c3e873e41ef94c8eb8c4697cef) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
@@ -192,7 +192,7 @@
 | [systemd](https://github.com/Matthew-Mosior/idris2-systemd) | base, linear | [e93a68e](https://github.com/Matthew-Mosior/idris2-systemd/commit/e93a68eff6b5b027d093b44481c245f9cad767d3) |
 | [tailrec](https://github.com/stefan-hoeck/idris2-tailrec) | base | [2734dfd](https://github.com/stefan-hoeck/idris2-tailrec/commit/2734dfdac3dedafcc0140b5388af760d0729b62f) |
 | [telescope](https://gitlab.com/avidela/idris2-telescope.git) |  | [e20f473](https://gitlab.com/avidela/idris2-telescope.git/commit/e20f473ddd18f1104c0a2a8bc17b36b2ea9fad03) |
-| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [56072e0](https://github.com/bgavran/TensorType/commit/56072e0e08593d69e726ae4ba8caa23f8b3804e8) |
+| [tensortype](https://github.com/bgavran/TensorType) | contrib, base | [b85946f](https://github.com/bgavran/TensorType/commit/b85946f0dd2ee4989b8900b6bbadf6c14340550b) |
 | [test](https://github.com/idris-lang/Idris2) | contrib | [6a54860](https://github.com/idris-lang/Idris2/commit/6a54860ee748accc1a2be1da4a77727b5be4c1dc) |
 | [tester](https://github.com/hydrolarus/tester-idr) | contrib | [3dcdb54](https://github.com/hydrolarus/tester-idr/commit/3dcdb54ed578a14597a17cb93c926734a9da69ca) |
 | [theory](https://github.com/JankaGramofonomanka/idris-theory) |  | [ff2ec34](https://github.com/JankaGramofonomanka/idris-theory/commit/ff2ec3487bfb70746173cdafda09ee55418a63f0) |
